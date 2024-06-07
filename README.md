@@ -1,8 +1,5 @@
 ## 김도환 (Kim Do-hwan)
 
-### 소개
-안녕하세요! 저는 2021년도부터 선문대학교에서 컴퓨터공학을 전공하고 있는 김도환입니다.
-
 ### I usually use
 - **프로그래밍 언어:** 
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
