@@ -14,6 +14,8 @@ Kim Do-hwan, a computer science student at SMU
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+![Kim Do-hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dohwan&show_icons=true&theme=radical)
+
 ## 🌟 I have experience
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,6 +26,5 @@ Kim Do-hwan, a computer science student at SMU
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## 📊 GitHub Stats
-![Kim Do-hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dohwan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
