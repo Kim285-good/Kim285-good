@@ -1,7 +1,7 @@
 ## Kim Do-hwan
 
 ### Introduction
-Hello! I am Kim Do-hwan, a computer science student at Sunmoon University since 2021.
+Kim Do-hwan, a computer science student at Sunmoon University
 
 ### I usually use
 - **Programming Languages:** 
