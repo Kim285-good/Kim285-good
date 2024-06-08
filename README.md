@@ -22,7 +22,7 @@ Kim Do-hwan, a computer science student at Sunmoon University
 
 
 ### GitHub stats
-![Kim Do-hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Do-hwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dohwan&show_icons=true&theme=radical)
 
 
 
