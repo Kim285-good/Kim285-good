@@ -1,7 +1,7 @@
 ## Kim Do-hwan
 
 ### Introduction
-Kim Do-hwan, a computer science student at Sunmoon University
+Kim Do-hwan, a computer science student at Sunmoon Univ
 
 
 ## 🚀 I usually use
